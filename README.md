@@ -5,3 +5,6 @@
 - Site: <a href="https://yitzhakalvarez.github.io">yitzhakalvarez.github.io</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/yitzhak-alvarez/">Yitzhak Alvarez</a>
 - Instagram: <a href="https://www.instagram.com/im_yitzhakalvarez/">Yitzhak Alvarez Photography</a>
+
+<p align='center'>
+<a href="https://www.instagram.com/im_yitzhakalvarez/"><img height="30" src="https://github.com/yitzhakalvarez/yitzhakalvarez/blob/main/logos/instagram.png"></a>&nbsp;&nbsp;
