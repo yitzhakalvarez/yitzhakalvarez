@@ -8,5 +8,6 @@
 
 <p align='center'>
 <a href="https://www.instagram.com/im_yitzhakalvarez/"><img height="30" src="https://github.com/yitzhakalvarez/yitzhakalvarez/blob/main/logos/instagram.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/yitzhak-alvarez/"><img height="30" src="https://github.com/yitzhakalvarez/yitzhakalvarez/blob/main/logos/instagram.png"></a>&nbsp;&nbsp;
-<a href="mailto:yitzhak.alvarez1998@yahoo.com"><img height="30" src="https://github.com/yitzhakalvarez/yitzhakalvarez/blob/main/logos/instagram.png"></a>
+<a href="https://www.linkedin.com/in/yitzhak-alvarez/"><img height="30" src="https://github.com/yitzhakalvarez/yitzhakalvarez/blob/main/logos/linkedin.png"></a>&nbsp;&nbsp;
+<a href="mailto:yitzhak.alvarez1998@yahoo.com"><img height="30" src="https://github.com/yitzhakalvarez/yitzhakalvarez/blob/main/logos/mail.png"></a>
+</p>
