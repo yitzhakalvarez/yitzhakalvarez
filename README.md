@@ -2,7 +2,7 @@
 
 <img src="https://github.com/yitzhakalvarez/yitzhakalvarez/blob/main/banner.png" alt="banner that says Yitzhak Alvarez - software engineer.">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yitzhakalvarez&layout=compact&theme=blueberry)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yitzhakalvarez&layout=compact&theme=blueberry)
 
 ## Find me around the web 🌎: <a href="https://github.com/yitzhakalvarez"><img align="left" width="150" height="150" src="https://github.com/yitzhakalvarez/yitzhakalvarez/blob/main/octocat/octocat.gif"></a>
 - Site: <a href="https://yitzhakalvarez.github.io">yitzhakalvarez.github.io</a>
