@@ -1,6 +1,6 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Yitzhak Alvarez</h1>
+<h1 align="center">Hi &#128075;, I'm Yitzhak Alvarez</h1>
 
-<img src="https://github.com/yitzhakalvarez/yitzhakalvarez/blob/main/banner.png" alt="banner that says Yitzhak Alvarez - software engineer.">
+<img src="https://github.com/yitzhakalvarez/yitzhakalvarez/blob/main/banner.png" alt="banner that says Yitzhak Alvarez - software engineer, web developer.">
 
 [![GitHub](https://img.shields.io/badge/-yitzhakalvarez-%23121011?style=flat&logo=github&logoColor=white)](https://github.com/yitzhakalvarez 'Follow me on GitHub')
 [![Netlify](https://img.shields.io/badge/-yitzhakalvarez.com-%23000000?style=flat&logo=netlify&logoColor=#00C7B7)](https://yitzhakalvarez.com/)
