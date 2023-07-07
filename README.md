@@ -83,6 +83,7 @@
 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat&logo=Airtable&logoColor=white)
+![Static Badge](https://img.shields.io/badge/ClickUp-%237B68EE?style=flat&logo=clickup&logoColor=white)
 
 </details>
 
@@ -90,6 +91,8 @@
 <summary>Content Management System (CMS)</summary>
 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Wix-%230C6EFC?style=flat&logo=wix&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Shopify-%237AB55C?style=flat&logo=shopify&logoColor=white)
 
 </details>
 
