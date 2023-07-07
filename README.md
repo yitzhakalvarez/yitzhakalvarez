@@ -83,6 +83,7 @@
 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat&logo=Airtable&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Notion-%23000000?style=flat&logo=notion&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/ClickUp-%237B68EE?style=flat&logo=clickup&logoColor=white)
 
 </details>
